@@ -2,7 +2,7 @@
 
 Estudo a área de desenvolvimento há uns 3 anos. Comecei estudando pela linguagem C, pois tive que desenvolver soluções em dispositivos IOT para o meu TCC no meu curso Técnico em Eletrônica.
 
-Depois de algumas recaidas e frustações tenho como determinação evoluir como desenvolvedor de software. Hoje estudo e trabalho com Javascript em conjunto com AWS e pretendo me aprofundar mais, conhecendo todo o seu ecossistema e assim então me considerar um desenvolvedor fullstack.
+Depois de algumas recaidas e frustações tenho como determinação evoluir como desenvolvedor de software. Hoje estudo e trabalho com Javascript em conjunto com AWS. Pretendo contribuir à comunidade e me aprofundar mais em JS, aprendendo todo o seu ecossistema e assim então me considerar um desenvolvedor fullstack.
 
 <h4 align="center">Linguagens e ferramentas:</h4>
 
