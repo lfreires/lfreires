@@ -1,4 +1,4 @@
-<h2 align="center"> Olá! Meu nome é Lucas Freires, desenvolvedor Javascript em evolução. </h2>
+<h2 align="center"> Olá! Meu nome é Lucas Freires </h2>
 
 Estudo a área de desenvolvimento há uns 3 anos. Comecei estudando pela linguagem C, pois tive que desenvolver soluções em dispositivos IOT para o meu TCC no meu curso Técnico em Eletrônica.
 
